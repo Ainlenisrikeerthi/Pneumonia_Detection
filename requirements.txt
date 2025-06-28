@@ -1,4 +1,4 @@
-tensorflow==2.10.1
+tensorflow>=2.15.0
 scikit-learn
 streamlit
 pandas
@@ -8,5 +8,3 @@ seaborn
 opencv-python-headless
 flask
 Pillow
-
-
